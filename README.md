@@ -1,16 +1,8 @@
 # spotify_clone
+* Spotify Clone is a digital music App that gives access to many songs. </br>
+* I Used Flutter, Dart, and Firebase to develop this App. </br>
+</br>
+This is the welcome interface of the App: </br>
 
-A new Flutter project.
+![alt text](https://github.com/Makwy1424/Spotify-Clone/blob/main/App%20images/Starting%20Interface.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
